@@ -1,0 +1,8 @@
+variable_key	value
+#campaign_variables_tables;0;db/campaign_variables_tables/dcb_allied_recruit_variables	
+allied_recruitment_distance_cost_multiplier	1.0000
+favour_points_generated_towards_ally	50.0000
+favour_points_generated_towards_master	50.0000
+favour_points_generated_towards_vassal	50.0000
+max_favour_points	99999.0000
+favour_points_generation_ai_percentage_mod	0.0200
