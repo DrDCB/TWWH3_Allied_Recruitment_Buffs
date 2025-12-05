@@ -1,4 +1,4 @@
-key	max_per_army
-#recruitment_sources_tables;0;db/recruitment_sources_tables/dcb_allied_recruit_sources	
-allied_recruitment	19
-ogre_mercenaries	19
+key	max_per_army	audio_recruit_vo
+#recruitment_sources_tables;1;db/recruitment_sources_tables/dcb_allied_recruit_sources		
+allied_recruitment	19	
+ogre_mercenaries	19	
