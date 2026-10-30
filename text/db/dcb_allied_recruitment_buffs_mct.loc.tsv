@@ -1,0 +1,7 @@
+key	text	tooltip
+#Loc;1;text/db/dcb_allied_recruitment_buffs_mct.loc		
+mct_dcb_allied_recruit_buffs_title	Allied Recruitment Buffs	false
+mct_dcb_allied_recruit_buffs_description	Increase the base amount of allegiance points the player gains from alliances each turn.	false
+mct_dcb_allied_recruit_buffs_gain_section_text	Allegiance Point Gain	false
+mct_dcb_allied_recruit_buffs_multiplier_text	Point gain multiplier	false
+mct_dcb_allied_recruit_buffs_multiplier_tooltip	Mod default is 24x (50 pts per turn)	false
